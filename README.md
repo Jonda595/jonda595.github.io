@@ -1,1 +1,3 @@
-ahoj
+<body>
+  <p>ahoj</p>
+</body>
